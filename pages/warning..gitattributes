@@ -1,7 +1,3 @@
-# All text files normalize to LF in repo
-* text=auto
-
-# CSS, JS, HTML specific
-*.css text eol=lf
-*.js text eol=lf
-*.html text eol=lf
+echo "* text=auto" > .gitattributes
+git add .gitattributes
+git commit -m "add gitattributes"
