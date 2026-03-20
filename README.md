@@ -1,5 +1,4 @@
 # 🌫️ Silent Struggles
-
 Silent Struggles is a mental health awareness landing page built as a practical front-end project.  
 This project focuses on clean UI design, structured layout, and Tailwind CSS implementation to create a compassionate space that addresses mental health topics with sensitivity and care.
 
@@ -65,27 +64,15 @@ To run the project locally with Tailwind CSS CLI:
 ```bash
 npx @tailwindcss/cli -i src\input.css -o src\output.css --watch
 Then open index.html in your browser.
-
-⚠️ Current Limitations
-The website is not fully optimized for all device sizes.
-
-Some layout inconsistencies may appear on different screen resolutions.
-
-Responsive improvements are planned for future updates.
-
-The project is focused on UI/visual storytelling and currently lacks interactive features.
+```
 
 🎯 Purpose of the Project
 This project was built to:
 
 Practice Tailwind CSS workflow
-
 Improve layout structuring skills
-
 Strengthen UI design fundamentals
-
 Build practical portfolio-ready projects
-
 Create a meaningful project that raises mental health awareness
 
 📬 Contact
