@@ -34,7 +34,7 @@ Silent Struggles is a static mental health awareness landing page designed to cr
 - Visual Storytelling through Imagery
 
 ---
-
+```
 ## 📂 Project Structure
 SILENT-STRUGGLES/
 │
@@ -54,8 +54,7 @@ SILENT-STRUGGLES/
 │ └── (Tailwind source files)
 │
 └── index.html
-
-text
+```
 
 ---
 
