@@ -63,8 +63,8 @@ To run the project locally with Tailwind CSS CLI:
 
 ```bash
 npx @tailwindcss/cli -i src\input.css -o src\output.css --watch
-Then open index.html in your browser.
 ```
+Then open index.html in your browser.
 
 🎯 Purpose of the Project
 This project was built to:
