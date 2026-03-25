@@ -2,8 +2,8 @@
 Silent Struggles is a mental health awareness landing page built as a practical front-end project.  
 This project focuses on clean UI design, structured layout, and Tailwind CSS implementation to create a compassionate space that addresses mental health topics with sensitivity and care.
 
-🔗 Live Demo: [View](your-live-demo-link)
-🔗 Repo Link: [View](your-repo-link)
+🔗 Live Demo: [View](https://dsdipu.github.io/silent-struggles/)
+🔗 Repo Link: [View](https://github.com/dsdipu/silent-struggles)
 
 ---
 
@@ -75,10 +75,9 @@ Strengthen UI design fundamentals
 Build practical portfolio-ready projects
 Create a meaningful project that raises mental health awareness
 
-📬 Contact
+## 📬 Contact
+<span style="background-color: teal; padding: 5px 30px; border-radius:15px; font-weight: bold;"><a href="mailto:mr.sarkar9979@gmail.com" target="_blank" style="color:white">📧 Email</a></span> 
+<span style="background-color: steelblue; padding: 5px 30px; border-radius:15px; font-weight: bold;"><a href="https://www.linkedin.com/in/dsdipu/" target="_blank" style="color:white">🔗 LinkedIn</a></span> 
+<span style="background-color: purple; padding: 5px 30px; border-radius:15px; font-weight: bold;"><a href="https://dsdipu.github.io/portfolio/" target="_blank" style="color:white">🌐 Portfolio</a></span> 
 
-📧 Email
-🔗 LinkedIn
-🌐 Portfolio
-
-© 2026 Dipankar Sarkar
+© 2026 [Dipankar Sarkar](www.facebook.com/dsdipu0)
